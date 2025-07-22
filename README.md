@@ -8,7 +8,7 @@ Example cloning of this repository
 * importing your own functions
 * Revisit two_sums - performance
 * PythonDataHandbook - dependencies - using conda to install modules
-* got to restore image of remote repository
+* use git to restore image of remote repository
 ## VSCode
 * open folder - multiple tabs
 * editor tools, e.g. lookup definition; where used
