@@ -12,5 +12,6 @@ Example cloning of this repository
 ## VSCode
 * open folder - multiple tabs
 * editor tools, e.g. lookup definition; where used
+* debug, breakpoints
 * enabling co-pilot
 * examples of using co-pilot
